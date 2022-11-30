@@ -6,7 +6,7 @@ Repository in which there is all my previous presentations.
 
 # Mode d'emploi
 
-Télécharger le fichier .html puis "enregistrer sous" la page et executer le fichier.
+Télécharger le fichier .html puis "enregistrer sous" la page et exécuter le fichier.
 
 # Users guide
 
