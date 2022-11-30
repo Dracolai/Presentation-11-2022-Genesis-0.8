@@ -1,11 +1,11 @@
 
 # Mode d'emploi
 
-Télécharger le fichier dossier et lancer le ficher .html
+Télécharger le dossier et lancer le ficher ".html"
 
 # Description
 
-Présentation de fin novembre 2023 au sein du LPC, pour l'équipe INDRA-FAZIA
+Présentation de fin novembre 2023 au sein du LPC, pour l'équipe INDRA-FAZIA. Dans celle-ci, je présente les avancements de ma thèse par rapport à mon stage. C'est la première présentation avec une version alpha de mon analyse ___Genesis___.
 
 ## Sommaire
 
