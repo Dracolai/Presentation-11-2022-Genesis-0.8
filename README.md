@@ -3,9 +3,9 @@
 
 Télécharger le fichier dossier et lancer le ficher .html
 
-# Presentation
+# Description
 
-Présentation de novembre 2023 au sein du LPC
+Présentation de fin novembre 2023 au sein du LPC, pour l'équipe INDRA-FAZIA
 
 ## Sommaire
 
