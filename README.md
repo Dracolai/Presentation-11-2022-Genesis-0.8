@@ -2,7 +2,7 @@
 
 Dossier où l'ensemble des présentations sont disponibles.
 
-Repository in which there is all my previous presentations
+Repository in which there is all my previous presentations.
 
 # Mode d'emploi
 
