@@ -1,8 +1,10 @@
 # Presentation
+
 Dossier où l'ensemble des présentations sont disponibles.
+
 Repository in which there is all my previous presentations
 
-# Mode d'emploie
+# Mode d'emploi
 
 Télécharger le fichier .html puis "enregistrer sous" la page et executer le fichier.
 
