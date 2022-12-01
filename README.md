@@ -17,7 +17,7 @@ Présentation de fin novembre 2022 au sein du LPC, pour l'équipe INDRA-FAZIA. D
     * Linéarisation
     * Projection & Groupes en Delta E0
     * Discussion sur l'étiquettage (Z,A)
-    * Transformation inverse (E,Delta E0) → (E,\Delta E)
+    * Transformation inverse (E,Delta E0) → (E,Delta E)
     * Discussion topologique
 * Conclusion       
     * Apports     
